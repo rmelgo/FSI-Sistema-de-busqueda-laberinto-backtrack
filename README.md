@@ -22,7 +22,7 @@ Para ejecutar este programa, se requerira de la herramienta **VisualProlog**.
 
 Esta herramienta puede descargarse a través del siguiente enlace:
 
-<a href="https://github.com/rmelgo/PA-Sistema-multiagente-JADE/blob/main/enunciadoPr%C3%A1cticaAgentesPA2021-2022.pdf" target="_blank">VisualProlog 5.2</a>
+<a href="https://github.com/rmelgo/FSI-Sistema-de-busqueda-laberinto-backtrack/blob/main/visual_prolog_5.2_windows.rar" target="_blank">VisualProlog 5.2</a>
 
 # Comentarios sobre el material adjuntado
 
