@@ -4,8 +4,8 @@
 
 # - Introducción
 
-Proyecto realizado en la asignatura de Fundamentos de Sistemas Inteligentes del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra subido en el repositorio en un archivo PDF llamado *PrácticaBúsquedaLaberinto.pdf*.
-  
+Proyecto realizado en la asignatura de Fundamentos de Sistemas Inteligentes del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra subido en el repositorio en un archivo PDF llamado <a href="https://github.com/rmelgo/FSI-Sistema-de-busqueda-laberinto-backtrack/blob/main/Pra%CC%81cticaBu%CC%81squedaLaberinto.pdf" target="_blank">*PrácticaBúsquedaLaberinto.pdf*</a>.
+
 El principal objetivo de este proyecto es la realización de un programa en Prolog que implemente la estrategia de backtracking para que un robot pueda resolver un laberinto. 
 
 Especificaciones básicas del problema:
