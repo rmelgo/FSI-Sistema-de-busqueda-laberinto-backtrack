@@ -29,7 +29,7 @@ Esta herramienta puede descargarse a través del siguiente enlace:
 El proyecto cuenta con los siguientes ficheros:
 
 - Una carpeta llamada ***Resolucion_Laberinto_Prolog*** que contendrá el proyecto en Visual Prolog en el que se implementará el algoritmo de backtraking para resolver el laberinto.
-  - Dentro de esta carpeta, exsite un archivo llamado ***Practica Sistemas de Busqueda.vpr*** que contiene el proyecto en VisualProlog con la implementación de las 2 versiones del algoritmo de backtraking para resolver el laberinto. En este proyecto de VisualProlog existen 2 ficheros principales:
+  - Dentro de esta carpeta, exite un archivo llamado ***Practica Sistemas de Busqueda.vpr*** que contiene el proyecto en VisualProlog con la implementación de las 2 versiones del algoritmo de backtraking para resolver el laberinto. En este proyecto de VisualProlog existen 2 ficheros principales:
  
     - Un fichero llamado ***Practica Sistemas de Busqueda (version basica).pro*** que contiene la implementación de la versión básica del algoritmo de backtracking para resolver el laberinto.
     - Un fichero llamado ***Practica Sistemas de Busqueda (version con limite incremental).pro*** que contiene la implementación de la versión con límite de profundidad incremental del algoritmo de backtracking para resolver el laberinto.
